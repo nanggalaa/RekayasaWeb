@@ -1,2 +1,2 @@
 # RekayasaWeb
-latihan tugas matkul rekayasa web
+Rekap latihan tugas mata kuliah rekayasa web
